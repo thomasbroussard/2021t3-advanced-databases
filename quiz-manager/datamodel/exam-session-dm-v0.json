@@ -1,0 +1,9 @@
+{
+  "examRef": "exam_id1",
+  "date": "2021-10-01",
+  "students": [
+    "student_id1",
+    "student_id2"
+  ]
+
+}

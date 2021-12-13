@@ -1,0 +1,24 @@
+
+{
+  "id":1,
+  "question": "",
+  "topics": [
+    "",
+    ""
+  ],
+  "difficulty": 3,
+  "choices": [
+    {
+      "id": 1,
+      "choice": "proposition a",
+      "valid": true
+    },
+    {
+      "id": 2,
+      "choice": "proposition a",
+      "valid": false
+    }
+  ]
+
+}
+
